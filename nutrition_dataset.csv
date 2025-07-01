@@ -1,0 +1,499 @@
+Age,Gender,Height,Weight,Activity Level,Dietary Preference,Fitness Goal,Daily Calorie Target,Protein,Carbohydrates,Fat
+25,Male,180,80,Moderately Active,Omnivore,Weight Loss,2000,120,250,60
+32,Female,165,65,Lightly Active,Vegetarian,Weight Loss,1600,80,200,40
+48,Male,175,95,Sedentary,Vegetarian,Maintenance,2200,100,300,65
+55,Female,160,70,Very Active,Omnivore,Weight Loss,2500,140,350,80
+62,Male,170,85,Sedentary,Vegetarian,Maintenance,2000,80,250,55
+68,Female,155,60,Lightly Active,Vegetarian,Maintenance,1800,70,220,45
+28,Male,190,100,Moderately Active,Omnivore,Muscle Gain,3000,180,350,80
+35,Female,170,75,Very Active,Vegetarian,Muscle Gain,2400,120,300,60
+42,Male,185,110,Moderately Active,Vegetarian,Muscle Gain,3200,160,400,85
+58,Female,168,78,Sedentary,Vegetarian,Maintenance,1900,75,230,50
+25,Male,180,80,Lightly Active,Omnivore,Weight Loss,2000,120,250,60
+32,Female,165,65,Moderately Active,Vegetarian,Muscle Gain,2200,100,300,70
+48,Male,175,95,Sedentary,Vegetarian,Maintenance,2400,100,350,80
+55,Female,160,70,Moderately Active,Omnivore,Weight Loss,1800,100,200,50
+62,Male,170,85,Very Active,Vegetarian,Muscle Gain,3000,150,400,100
+28,Female,172,60,Lightly Active,Vegetarian,Muscle Gain,2000,100,250,60
+35,Male,185,90,Very Active,Omnivore,Weight Loss,2500,150,300,80
+40,Female,168,75,Moderately Active,Vegetarian,Maintenance,2200,100,300,70
+22,Male,190,100,Lightly Active,Omnivore,Muscle Gain,2800,160,350,90
+58,Female,155,68,Sedentary,Vegetarian,Weight Loss,1600,80,180,40
+24,Female,165,55,Lightly Active,Omnivore,Weight Loss,1800,100,250,50
+38,Male,180,80,Moderately Active,Omnivore,Muscle Gain,2800,160,350,80
+55,Female,160,70,Sedentary,Vegetarian,Weight Loss,1600,80,200,40
+62,Male,175,95,Moderately Active,Omnivore,Weight Loss,2200,120,280,60
+28,Female,170,65,Very Active,Vegetarian,Muscle Gain,2400,140,320,70
+45,Male,185,100,Lightly Active,Omnivore,Weight Loss,2000,110,250,50
+68,Female,155,60,Sedentary,Vegetarian,Maintenance,1400,70,180,35
+32,Male,190,90,Very Active,Omnivore,Muscle Gain,3000,180,400,90
+58,Male,170,85,Moderately Active,Vegetarian,Weight Loss,1900,100,240,50
+22,Female,160,50,Lightly Active,Vegetarian,Weight Loss,1500,80,200,40
+25,Female,165,60,Lightly Active,Omnivore,Weight Loss,1800,80,200,60
+38,Male,180,85,Moderately Active,Vegetarian,Muscle Gain,2800,150,250,80
+55,Female,160,65,Sedentary,Vegetarian,Maintenance,1600,65,180,50
+42,Male,190,95,Very Active,Omnivore,Muscle Gain,3200,200,300,100
+62,Female,155,58,Sedentary,Vegetarian,Weight Loss,1400,55,150,40
+28,Male,175,70,Moderately Active,Omnivore,Muscle Gain,2500,130,220,70
+31,Female,170,75,Lightly Active,Vegetarian,Weight Loss,1700,70,190,50
+58,Male,185,90,Moderately Active,Omnivore,Maintenance,2400,100,240,70
+22,Female,168,55,Very Active,Vegetarian,Muscle Gain,2200,110,200,60
+45,Male,182,80,Lightly Active,Omnivore,Weight Loss,2000,90,220,60
+25,Male,180,80,Moderately Active,Omnivore,Weight Loss,2200,120,250,60
+32,Female,165,65,Lightly Active,Vegetarian,Muscle Gain,2000,100,200,60
+55,Male,175,90,Sedentary,Vegetarian,Maintenance,2000,80,250,50
+68,Female,160,75,Lightly Active,Omnivore,Weight Loss,1800,80,180,50
+28,Male,185,95,Very Active,Omnivore,Muscle Gain,3000,160,350,80
+38,Female,170,70,Moderately Active,Vegetarian,Weight Loss,1800,80,200,50
+62,Male,170,85,Sedentary,Omnivore,Maintenance,2200,80,270,60
+45,Female,168,60,Very Active,Vegetarian,Muscle Gain,2400,120,280,70
+22,Female,172,55,Moderately Active,Vegetarian,Weight Loss,1800,80,200,50
+58,Male,178,98,Sedentary,Omnivore,Maintenance,2000,80,250,50
+25,Male,180,85,Lightly Active,Omnivore,Weight Loss,2000,120,250,65
+32,Female,165,60,Moderately Active,Vegetarian,Muscle Gain,2200,100,300,70
+48,Male,175,95,Very Active,Omnivore,Maintenance,2800,150,350,90
+55,Female,160,70,Sedentary,Vegetarian,Weight Loss,1600,80,200,50
+28,Male,185,90,Moderately Active,Vegetarian,Muscle Gain,2600,130,350,80
+62,Female,155,65,Lightly Active,Omnivore,Weight Loss,1800,90,220,60
+35,Female,170,75,Very Active,Vegetarian,Muscle Gain,2400,110,320,75
+22,Male,190,80,Moderately Active,Vegetarian,Weight Loss,2100,100,270,65
+58,Male,178,100,Sedentary,Omnivore,Maintenance,2400,120,300,75
+40,Female,168,72,Lightly Active,Vegetarian,Muscle Gain,2000,90,250,65
+25,Male,180,80,Moderately Active,Omnivore,Muscle Gain,2800,160,350,80
+32,Female,165,60,Lightly Active,Vegetarian,Weight Loss,1800,100,220,50
+55,Male,175,90,Sedentary,Omnivore,Maintenance,2200,120,250,60
+28,Female,170,65,Very Active,Vegetarian,Muscle Gain,2400,140,300,70
+62,Female,160,70,Lightly Active,Omnivore,Weight Loss,1600,80,180,40
+21,Male,190,95,Moderately Active,Omnivore,Muscle Gain,3000,180,400,90
+35,Female,168,55,Sedentary,Vegetarian,Weight Loss,1500,80,160,40
+68,Female,155,65,Lightly Active,Vegetarian,Maintenance,1700,80,190,50
+25,Female,165,60,Lightly Active,Omnivore,Weight Loss,1800,100,200,60
+32,Male,180,85,Moderately Active,Omnivore,Muscle Gain,2800,180,300,80
+48,Female,170,75,Sedentary,Vegetarian,Maintenance,2000,80,220,70
+55,Male,175,90,Moderately Active,Vegetarian,Muscle Gain,2500,160,280,70
+62,Female,160,65,Lightly Active,Vegetarian,Weight Loss,1600,80,180,50
+28,Male,190,100,Very Active,Omnivore,Muscle Gain,3200,200,350,90
+35,Female,168,55,Sedentary,Vegetarian,Weight Loss,1500,70,170,50
+42,Male,185,95,Moderately Active,Vegetarian,Maintenance,2400,150,260,70
+21,Female,172,58,Lightly Active,Omnivore,Weight Loss,1700,90,190,60
+58,Male,178,80,Sedentary,Vegetarian,Maintenance,2100,70,230,70
+25,Male,180,80,Moderately Active,Omnivore,Weight Loss,2000,120,250,60
+38,Female,165,65,Sedentary,Vegetarian,Maintenance,1800,80,220,60
+62,Male,175,90,Lightly Active,Omnivore,Muscle Gain,2500,180,300,80
+45,Female,170,75,Very Active,Vegetarian,Weight Loss,2200,100,280,60
+58,Male,178,85,Sedentary,Omnivore,Maintenance,2200,100,270,70
+22,Female,160,55,Moderately Active,Vegetarian,Muscle Gain,2000,100,250,60
+68,Male,170,70,Lightly Active,Omnivore,Weight Loss,1800,80,220,60
+30,Female,168,60,Very Active,Vegetarian,Muscle Gain,2400,120,300,80
+55,Female,165,78,Sedentary,Vegetarian,Maintenance,1900,80,230,60
+28,Male,185,100,Moderately Active,Omnivore,Muscle Gain,2800,160,350,100
+25,Female,165,60,Lightly Active,Omnivore,Weight Loss,1800,100,200,60
+32,Male,180,85,Moderately Active,Omnivore,Muscle Gain,2800,180,350,80
+55,Female,160,70,Sedentary,Vegetarian,Weight Loss,1600,80,180,50
+40,Male,190,95,Very Active,Vegetarian,Muscle Gain,3200,160,400,90
+62,Male,175,80,Moderately Active,Omnivore,Maintenance,2400,140,280,70
+28,Female,170,55,Sedentary,Vegetarian,Weight Loss,1500,70,160,40
+38,Female,168,65,Lightly Active,Vegetarian,Maintenance,2000,90,220,60
+58,Male,178,85,Moderately Active,Vegetarian,Muscle Gain,2800,150,350,80
+22,Male,185,90,Very Active,Omnivore,Muscle Gain,3000,170,380,80
+45,Female,172,75,Sedentary,Vegetarian,Weight Loss,1700,80,190,50
+28,Female,165,55,Lightly Active,Omnivore,Weight Loss,1800,75,200,50
+55,Male,180,90,Moderately Active,Vegetarian,Maintenance,2500,90,300,70
+32,Female,170,60,Very Active,Vegetarian,Muscle Gain,2400,100,350,60
+22,Male,190,85,Sedentary,Omnivore,Weight Loss,2000,80,250,55
+62,Female,160,70,Moderately Active,Vegetarian,Maintenance,1800,70,220,50
+25,Male,185,95,Lightly Active,Omnivore,Muscle Gain,2800,120,380,80
+40,Female,175,75,Very Active,Vegetarian,Weight Loss,2000,80,250,55
+38,Male,178,80,Sedentary,Vegetarian,Maintenance,2200,85,280,65
+20,Female,168,50,Lightly Active,Omnivore,Muscle Gain,2200,90,300,60
+58,Male,175,85,Moderately Active,Vegetarian,Maintenance,2300,80,300,70
+25,Male,175,75,Moderately Active,Omnivore,Weight Loss,2200,150,250,60
+38,Female,165,60,Lightly Active,Vegetarian,Maintenance,1800,100,200,50
+55,Male,180,90,Sedentary,Omnivore,Weight Loss,1800,120,200,40
+62,Female,160,70,Sedentary,Vegetarian,Maintenance,1600,80,180,40
+28,Female,170,65,Very Active,Omnivore,Muscle Gain,2500,180,300,80
+32,Male,185,85,Moderately Active,Vegetarian,Weight Loss,2000,140,220,50
+68,Male,170,80,Lightly Active,Omnivore,Weight Loss,1600,100,180,40
+45,Female,165,65,Very Active,Vegetarian,Muscle Gain,2300,150,280,70
+72,Female,155,55,Sedentary,Omnivore,Maintenance,1400,70,160,30
+21,Male,190,95,Moderately Active,Omnivore,Weight Loss,2400,160,280,60
+25,Male,180,80,Moderately Active,Omnivore,Weight Loss,2200,120,250,60
+30,Female,165,65,Lightly Active,Vegetarian,Muscle Gain,2000,100,200,60
+55,Male,175,90,Sedentary,Omnivore,Weight Loss,1800,90,180,50
+22,Female,170,55,Very Active,Vegetarian,Muscle Gain,2500,130,300,70
+60,Female,155,60,Moderately Active,Vegetarian,Maintenance,1600,70,160,40
+28,Male,190,100,Very Active,Omnivore,Weight Loss,2800,150,350,80
+35,Female,160,50,Lightly Active,Vegetarian,Muscle Gain,1800,90,180,50
+48,Male,185,95,Moderately Active,Omnivore,Maintenance,2200,110,220,60
+65,Male,170,75,Sedentary,Omnivore,Weight Loss,1500,70,150,40
+19,Female,168,58,Very Active,Vegetarian,Muscle Gain,2300,120,280,60
+25,Male,180,85,Moderately Active,Omnivore,Weight Loss,2200,120,250,60
+38,Female,165,68,Lightly Active,Vegetarian,Maintenance,1800,80,220,50
+55,Male,175,95,Sedentary,Vegetarian,Weight Loss,1900,85,200,45
+22,Female,160,55,Very Active,Omnivore,Muscle Gain,2500,150,300,75
+62,Female,168,72,Sedentary,Vegetarian,Maintenance,1700,75,180,40
+30,Male,190,100,Moderately Active,Omnivore,Muscle Gain,3000,180,350,90
+28,Female,170,65,Lightly Active,Vegetarian,Weight Loss,1600,70,180,45
+40,Male,185,90,Very Active,Omnivore,Weight Loss,2500,130,280,70
+21,Female,168,58,Lightly Active,Vegetarian,Maintenance,1800,75,200,50
+58,Male,178,88,Sedentary,Omnivore,Weight Loss,1800,80,200,50
+25,Female,165,58,Moderately Active,Omnivore,Weight Loss,1800,100,200,50
+32,Male,180,85,Lightly Active,Omnivore,Muscle Gain,2500,150,300,70
+55,Female,160,70,Sedentary,Vegetarian,Weight Loss,1500,80,150,40
+40,Male,190,95,Moderately Active,Vegetarian,Maintenance,2200,120,250,60
+68,Female,155,62,Sedentary,Vegetarian,Weight Loss,1400,70,130,35
+28,Male,175,78,Very Active,Omnivore,Muscle Gain,3000,180,350,80
+35,Female,170,65,Lightly Active,Vegetarian,Maintenance,1900,90,200,55
+52,Male,185,100,Very Active,Vegetarian,Muscle Gain,2800,160,300,80
+22,Female,168,55,Moderately Active,Vegetarian,Weight Loss,1600,80,180,40
+47,Male,178,80,Sedentary,Omnivore,Maintenance,2100,110,230,60
+28,Female,165,60,Lightly Active,Omnivore,Weight Loss,1800,100,200,60
+35,Male,180,80,Moderately Active,Vegetarian,Maintenance,2500,100,300,80
+55,Female,160,75,Sedentary,Vegetarian,Weight Loss,1500,75,150,40
+62,Male,175,90,Moderately Active,Omnivore,Weight Loss,2200,120,250,70
+22,Female,170,55,Very Active,Omnivore,Muscle Gain,2400,150,300,80
+40,Male,185,100,Lightly Active,Vegetarian,Muscle Gain,2800,120,350,90
+68,Female,155,65,Sedentary,Omnivore,Maintenance,1800,80,200,60
+70,Male,170,85,Sedentary,Vegetarian,Weight Loss,1700,80,180,50
+33,Female,168,70,Very Active,Omnivore,Maintenance,2200,100,250,70
+25,Male,190,95,Moderately Active,Vegetarian,Muscle Gain,2500,120,300,80
+25,Male,180,80,Moderately Active,Omnivore,Weight Loss,2200,120,200,60
+55,Female,165,70,Sedentary,Vegetarian,Maintenance,1800,80,250,50
+32,Male,190,95,Very Active,Omnivore,Muscle Gain,3000,160,350,80
+68,Female,170,65,Lightly Active,Vegetarian,Weight Loss,1500,70,180,40
+42,Male,185,100,Very Active,Omnivore,Weight Loss,2500,140,220,70
+58,Female,160,55,Sedentary,Vegetarian,Maintenance,1600,60,200,40
+35,Male,178,85,Lightly Active,Vegetarian,Weight Loss,2000,100,180,50
+72,Male,175,75,Sedentary,Vegetarian,Maintenance,1700,70,210,40
+48,Female,168,68,Moderately Active,Omnivore,Maintenance,1900,80,230,50
+25,Male,180,85,Moderately Active,Omnivore,Weight Loss,2200,150,250,70
+32,Female,165,60,Sedentary,Vegetarian,Weight Loss,1800,80,200,60
+55,Female,160,75,Lightly Active,Vegetarian,Weight Maintenance,1900,85,220,65
+40,Male,185,95,Very Active,Omnivore,Muscle Gain,3000,200,350,100
+28,Female,170,70,Moderately Active,Vegetarian,Muscle Gain,2400,140,280,80
+62,Male,175,80,Lightly Active,Omnivore,Weight Maintenance,2100,110,240,70
+35,Female,168,65,Moderately Active,Vegetarian,Weight Loss,1900,90,220,65
+22,Male,190,90,Very Active,Omnivore,Muscle Gain,3200,220,380,110
+48,Female,172,78,Sedentary,Vegetarian,Weight Maintenance,2000,95,230,70
+21,Male,183,82,Moderately Active,Vegetarian,Muscle Gain,2800,170,320,90
+25,Male,180,80,Moderately Active,Omnivore,Weight Loss,2200,120,250,60
+32,Female,165,65,Lightly Active,Vegetarian,Maintenance,1800,80,220,50
+58,Male,175,95,Sedentary,Omnivore,Weight Loss,1800,100,200,50
+28,Female,170,70,Very Active,Vegetarian,Muscle Gain,2500,150,300,70
+62,Female,160,75,Sedentary,Vegetarian,Weight Loss,1600,70,180,40
+45,Male,185,105,Moderately Active,Omnivore,Weight Loss,2000,110,220,60
+21,Female,168,55,Lightly Active,Vegetarian,Muscle Gain,2000,100,250,60
+68,Male,170,85,Sedentary,Omnivore,Maintenance,1800,80,200,50
+35,Female,172,68,Very Active,Vegetarian,Muscle Gain,2400,140,280,70
+55,Female,158,60,Sedentary,Vegetarian,Weight Loss,1500,60,160,40
+25,Female,165,55,Lightly Active,Omnivore,Weight Loss,1800,70,180,50
+58,Male,180,90,Moderately Active,Vegetarian,Maintenance,2500,90,250,70
+32,Female,170,65,Sedentary,Vegetarian,Weight Loss,1500,60,150,40
+62,Male,175,85,Very Active,Omnivore,Maintenance,3000,120,300,80
+28,Female,160,50,Lightly Active,Vegetarian,Muscle Gain,2000,80,200,60
+45,Male,185,100,Moderately Active,Omnivore,Weight Loss,2200,100,220,60
+68,Female,162,60,Sedentary,Vegetarian,Maintenance,1800,70,180,50
+35,Male,190,80,Very Active,Omnivore,Muscle Gain,3200,140,320,90
+21,Female,172,58,Lightly Active,Vegetarian,Weight Loss,1700,65,170,45
+55,Male,178,82,Moderately Active,Vegetarian,Maintenance,2400,90,240,70
+25,Male,180,85,Moderately Active,Omnivore,Weight Loss,2000,120,250,60
+32,Female,165,60,Lightly Active,Vegetarian,Maintenance,1800,80,220,50
+55,Male,175,90,Sedentary,Omnivore,Weight Loss,1800,100,200,50
+68,Female,160,70,Sedentary,Vegetarian,Maintenance,1600,70,180,40
+28,Male,190,100,Very Active,Omnivore,Muscle Gain,3000,180,350,80
+42,Female,170,75,Moderately Active,Vegetarian,Weight Loss,1500,80,180,40
+38,Male,185,95,Lightly Active,Omnivore,Muscle Gain,2800,160,300,70
+52,Female,165,65,Sedentary,Vegetarian,Weight Loss,1400,70,150,30
+22,Female,170,55,Very Active,Vegetarian,Muscle Gain,2500,120,280,60
+48,Male,175,80,Moderately Active,Omnivore,Maintenance,2200,100,250,60
+25,Male,180,85,Moderately Active,Omnivore,Weight Loss,2200,120,250,60
+38,Female,165,68,Sedentary,Vegetarian,Maintenance,1800,80,200,50
+55,Male,175,90,Lightly Active,Omnivore,Weight Loss,2000,100,220,55
+62,Female,160,75,Sedentary,Vegetarian,Weight Loss,1600,70,180,45
+28,Male,190,100,Very Active,Omnivore,Muscle Gain,3000,180,350,80
+32,Female,170,65,Moderately Active,Vegetarian,Muscle Gain,2000,100,220,55
+68,Male,170,80,Lightly Active,Omnivore,Maintenance,1800,80,200,50
+21,Female,165,55,Very Active,Vegetarian,Muscle Gain,2200,100,250,60
+45,Male,185,95,Moderately Active,Omnivore,Weight Loss,2000,100,220,55
+70,Female,155,60,Sedentary,Vegetarian,Maintenance,1400,60,160,40
+25,Female,165,58,Moderately Active,Omnivore,Weight Loss,1800,80,200,60
+32,Male,180,90,Lightly Active,Vegetarian,Muscle Gain,2500,120,300,80
+55,Female,160,65,Sedentary,Vegetarian,Weight Loss,1500,60,150,40
+48,Male,185,105,Very Active,Omnivore,Muscle Gain,3200,160,400,100
+38,Male,175,75,Moderately Active,Vegetarian,Weight Loss,2000,90,220,70
+21,Female,170,60,Lightly Active,Omnivore,Muscle Gain,2200,100,250,80
+58,Male,178,80,Sedentary,Omnivore,Maintenance,2000,80,200,60
+70,Female,162,68,Sedentary,Vegetarian,Weight Loss,1400,50,140,40
+42,Male,190,100,Very Active,Vegetarian,Muscle Gain,3000,150,350,90
+25,Male,180,85,Moderately Active,Omnivore,Weight Loss,2200,120,250,60
+62,Female,165,70,Lightly Active,Vegetarian,Maintenance,1800,70,200,50
+38,Male,190,95,Very Active,Omnivore,Muscle Gain,3000,180,350,80
+45,Female,170,65,Sedentary,Vegetarian,Weight Loss,1600,80,180,40
+22,Female,160,55,Moderately Active,Vegetarian,Weight Loss,1800,70,200,50
+58,Male,175,80,Moderately Active,Omnivore,Maintenance,2000,100,220,60
+30,Male,185,90,Very Active,Omnivore,Muscle Gain,2800,160,300,70
+28,Female,170,60,Sedentary,Vegetarian,Weight Loss,1500,70,160,40
+68,Female,155,60,Lightly Active,Vegetarian,Maintenance,1700,60,180,40
+42,Male,180,80,Very Active,Omnivore,Muscle Gain,2600,150,280,70
+25,Male,180,85,Moderately Active,Omnivore,Weight Loss,2000,125,250,60
+32,Female,165,60,Lightly Active,Vegetarian,Maintenance,1800,90,225,50
+58,Male,175,95,Sedentary,Omnivore,Weight Loss,1800,115,225,55
+28,Female,170,70,Very Active,Vegetarian,Muscle Gain,2500,150,300,80
+62,Female,160,75,Sedentary,Vegetarian,Weight Loss,1600,80,200,40
+40,Male,185,90,Moderately Active,Omnivore,Muscle Gain,2800,175,350,90
+35,Female,168,55,Lightly Active,Omnivore,Maintenance,1900,100,230,60
+22,Male,190,100,Very Active,Vegetarian,Weight Loss,2200,130,275,70
+65,Male,170,80,Sedentary,Omnivore,Maintenance,1700,95,210,50
+48,Female,163,65,Lightly Active,Vegetarian,Weight Loss,1500,75,185,40
+25,Male,185,85,Moderately Active,Omnivore,Weight Loss,2200,150,250,60
+38,Female,165,65,Lightly Active,Vegetarian,Muscle Gain,2000,120,200,50
+62,Female,160,70,Sedentary,Vegetarian,Maintenance,1800,80,220,50
+45,Male,190,95,Very Active,Omnivore,Muscle Gain,3000,200,350,80
+28,Female,170,58,Moderately Active,Omnivore,Weight Loss,1800,100,200,50
+55,Male,175,80,Sedentary,Omnivore,Weight Loss,1800,110,220,50
+22,Female,168,62,Lightly Active,Vegetarian,Muscle Gain,2000,100,250,50
+30,Male,180,78,Moderately Active,Omnivore,Muscle Gain,2500,180,300,70
+68,Male,170,75,Sedentary,Omnivore,Maintenance,1600,80,180,40
+35,Female,175,72,Very Active,Vegetarian,Weight Loss,2000,120,240,60
+25,Female,165,55,Lightly Active,Omnivore,Weight Loss,1800,80,200,60
+32,Male,180,85,Moderately Active,Omnivore,Muscle Gain,2800,150,300,80
+55,Female,160,68,Sedentary,Vegetarian,Weight Loss,1500,70,150,40
+28,Male,190,95,Very Active,Vegetarian,Muscle Gain,3200,180,400,100
+62,Male,175,80,Lightly Active,Omnivore,Maintenance,2200,100,250,60
+21,Female,170,60,Moderately Active,Vegetarian,Weight Loss,1600,70,180,50
+48,Female,168,75,Sedentary,Vegetarian,Maintenance,1800,80,200,60
+35,Male,185,100,Very Active,Omnivore,Muscle Gain,3000,160,350,90
+40,Male,178,88,Moderately Active,Omnivore,Muscle Gain,2600,140,280,80
+25,Male,180,85,Moderately Active,Omnivore,Weight Loss,2200,120,200,60
+32,Female,165,68,Lightly Active,Vegetarian,Muscle Gain,2000,100,250,60
+55,Male,175,95,Sedentary,Omnivore,Maintenance,2000,80,250,60
+28,Female,170,72,Very Active,Vegetarian,Weight Loss,1800,80,180,50
+62,Female,160,65,Lightly Active,Vegetarian,Weight Loss,1600,60,150,40
+40,Male,185,90,Moderately Active,Omnivore,Muscle Gain,2500,150,300,80
+38,Female,172,78,Sedentary,Omnivore,Maintenance,1800,80,200,60
+22,Male,190,105,Very Active,Vegetarian,Muscle Gain,2800,130,350,90
+19,Female,168,55,Moderately Active,Vegetarian,Weight Loss,1800,70,180,50
+45,Male,178,82,Lightly Active,Omnivore,Muscle Gain,2300,110,270,70
+25,Female,165,58,Lightly Active,Omnivore,Weight Loss,1800,80,200,60
+32,Male,180,85,Moderately Active,Omnivore,Muscle Gain,2800,150,300,80
+58,Female,160,70,Sedentary,Vegetarian,Weight Loss,1500,70,150,40
+65,Male,175,90,Lightly Active,Vegetarian,Maintenance,2200,80,250,60
+42,Female,170,65,Moderately Active,Vegetarian,Weight Loss,1900,70,220,50
+38,Male,185,95,Very Active,Omnivore,Muscle Gain,3200,170,350,90
+28,Female,162,55,Sedentary,Vegetarian,Weight Loss,1600,65,180,45
+62,Male,170,80,Moderately Active,Vegetarian,Maintenance,2000,75,220,55
+21,Female,158,48,Lightly Active,Omnivore,Weight Loss,1500,60,170,45
+55,Male,178,88,Sedentary,Vegetarian,Maintenance,1900,70,200,55
+25,Male,180,80,Moderately Active,Omnivore,Weight Loss,2000,120,180,50
+32,Female,165,65,Sedentary,Vegetarian,Maintenance,1800,80,220,60
+55,Female,160,75,Lightly Active,Vegetarian,Weight Loss,1600,70,150,40
+40,Male,190,95,Very Active,Omnivore,Muscle Gain,3000,180,270,80
+62,Male,175,85,Sedentary,Omnivore,Maintenance,2200,100,200,70
+28,Female,170,55,Moderately Active,Vegetarian,Muscle Gain,2400,110,240,70
+35,Male,185,110,Very Active,Omnivore,Weight Loss,2500,150,200,60
+22,Female,160,50,Lightly Active,Vegetarian,Muscle Gain,2200,100,220,60
+48,Male,180,90,Moderately Active,Omnivore,Weight Loss,2100,130,170,50
+58,Female,155,60,Sedentary,Vegetarian,Maintenance,1500,60,130,40
+25,Male,180,80,Moderately Active,Omnivore,Weight Loss,2200,120,200,60
+32,Female,165,65,Lightly Active,Vegetarian,Weight Loss,1800,80,180,50
+55,Male,175,95,Sedentary,Omnivore,Maintenance,2400,100,250,70
+28,Female,170,72,Very Active,Vegetarian,Muscle Gain,2600,130,280,70
+62,Female,160,60,Sedentary,Vegetarian,Weight Loss,1600,60,150,40
+38,Male,190,105,Moderately Active,Omnivore,Muscle Gain,3000,160,300,90
+22,Female,168,58,Lightly Active,Vegetarian,Maintenance,1900,70,200,60
+40,Male,178,85,Very Active,Vegetarian,Weight Loss,2400,120,220,60
+27,Female,172,68,Moderately Active,Omnivore,Weight Loss,1900,90,180,50
+58,Male,182,100,Lightly Active,Vegetarian,Maintenance,2200,80,200,60
+25,Male,180,80,Moderately Active,Omnivore,Weight Loss,2200,120,250,60
+32,Female,165,65,Sedentary,Vegetarian,Maintenance,1800,80,200,50
+58,Female,160,70,Lightly Active,Vegetarian,Weight Loss,1600,70,180,40
+40,Male,190,95,Very Active,Omnivore,Muscle Gain,3000,180,350,80
+62,Male,175,85,Lightly Active,Vegetarian,Weight Loss,1800,80,200,50
+38,Female,170,75,Moderately Active,Vegetarian,Maintenance,2000,80,220,60
+28,Male,185,90,Very Active,Omnivore,Muscle Gain,3200,200,400,90
+55,Female,155,60,Sedentary,Vegetarian,Weight Loss,1400,60,160,30
+70,Male,170,75,Lightly Active,Omnivore,Maintenance,1800,80,200,50
+22,Female,168,55,Moderately Active,Vegetarian,Weight Loss,1600,70,180,40
+25,Female,165,55,Moderately Active,Omnivore,Weight Loss,1800,75,200,60
+32,Male,180,85,Lightly Active,Omnivore,Muscle Gain,2800,150,300,80
+58,Female,160,68,Sedentary,Vegetarian,Weight Loss,1500,60,170,40
+40,Male,190,95,Very Active,Omnivore,Muscle Gain,3500,200,400,100
+62,Female,155,50,Sedentary,Vegetarian,Weight Loss,1400,50,150,30
+28,Male,175,70,Moderately Active,Omnivore,Maintenance,2500,100,250,70
+65,Male,170,75,Lightly Active,Omnivore,Weight Loss,1700,70,180,50
+35,Female,168,60,Very Active,Vegetarian,Muscle Gain,2500,100,300,70
+48,Male,185,100,Moderately Active,Omnivore,Weight Loss,2200,90,220,60
+22,Female,170,58,Lightly Active,Vegetarian,Maintenance,2000,80,200,60
+25,Female,165,55,Moderately Active,Omnivore,Weight Loss,1800,100,200,60
+38,Male,180,85,Lightly Active,Omnivore,Muscle Gain,2800,160,300,80
+55,Female,160,65,Sedentary,Vegetarian,Weight Loss,1500,75,150,45
+62,Male,175,90,Moderately Active,Vegetarian,Maintenance,2400,120,280,70
+28,Female,170,60,Very Active,Vegetarian,Muscle Gain,2500,140,300,70
+42,Male,185,95,Lightly Active,Omnivore,Muscle Gain,2600,150,280,80
+58,Female,155,50,Sedentary,Vegetarian,Weight Loss,1400,70,140,40
+33,Male,190,100,Moderately Active,Vegetarian,Maintenance,2600,130,300,70
+21,Female,168,58,Very Active,Omnivore,Muscle Gain,2400,130,280,70
+68,Male,170,75,Lightly Active,Omnivore,Weight Loss,1800,90,180,50
+25,Male,180,80,Moderately Active,Omnivore,Weight Loss,2200,120,250,60
+38,Female,165,65,Lightly Active,Vegetarian,Maintenance,1800,80,200,50
+62,Male,175,90,Sedentary,Omnivore,Weight Loss,1800,100,200,50
+45,Female,170,75,Very Active,Vegetarian,Muscle Gain,2500,140,300,80
+58,Male,185,105,Moderately Active,Omnivore,Weight Loss,2000,110,220,60
+22,Female,160,50,Lightly Active,Vegetarian,Weight Loss,1600,70,180,40
+70,Female,155,55,Sedentary,Vegetarian,Weight Loss,1400,70,160,40
+30,Male,190,95,Very Active,Omnivore,Muscle Gain,3000,180,350,100
+42,Female,168,60,Moderately Active,Vegetarian,Maintenance,1800,80,200,50
+55,Male,178,85,Sedentary,Omnivore,Weight Loss,1800,100,200,50
+25,Female,165,58,Moderately Active,Omnivore,Weight Loss,1800,100,200,60
+38,Male,180,85,Lightly Active,Vegetarian,Maintenance,2500,120,300,80
+55,Female,160,70,Sedentary,Vegetarian,Weight Loss,1500,80,150,50
+62,Male,175,95,Moderately Active,Omnivore,Maintenance,2800,140,350,100
+28,Female,170,65,Very Active,Vegetarian,Muscle Gain,2400,130,300,80
+32,Male,185,90,Lightly Active,Omnivore,Weight Loss,2200,110,250,70
+58,Female,155,62,Sedentary,Vegetarian,Weight Loss,1400,70,140,40
+40,Male,190,110,Very Active,Omnivore,Muscle Gain,3200,160,400,120
+21,Female,168,55,Lightly Active,Vegetarian,Maintenance,2000,90,220,60
+70,Male,170,75,Sedentary,Omnivore,Maintenance,2000,100,250,70
+25,Male,180,80,Moderately Active,Omnivore,Muscle Gain,2800,180,350,80
+32,Female,165,65,Lightly Active,Vegetarian,Weight Loss,1800,100,200,50
+58,Male,175,90,Sedentary,Omnivore,Weight Loss,2000,120,250,60
+62,Female,160,70,Moderately Active,Vegetarian,Maintenance,1900,90,220,60
+28,Male,190,100,Very Active,Omnivore,Muscle Gain,3200,200,400,100
+45,Female,170,75,Lightly Active,Vegetarian,Weight Loss,1600,80,180,40
+30,Male,185,95,Moderately Active,Vegetarian,Muscle Gain,2800,180,350,80
+65,Female,155,60,Sedentary,Omnivore,Maintenance,1700,80,200,50
+22,Female,168,55,Very Active,Vegetarian,Muscle Gain,2400,140,300,70
+50,Male,170,85,Lightly Active,Vegetarian,Weight Loss,1900,100,220,60
+25,Male,180,80,Moderately Active,Omnivore,Weight Loss,2000,150,250,60
+32,Female,165,60,Sedentary,Vegetarian,Maintenance,1800,100,220,50
+55,Male,175,90,Lightly Active,Omnivore,Weight Loss,1800,130,200,60
+28,Female,170,70,Very Active,Vegetarian,Muscle Gain,2500,175,350,80
+40,Male,190,110,Moderately Active,Omnivore,Weight Loss,2200,160,280,70
+62,Female,160,55,Sedentary,Vegetarian,Maintenance,1500,80,180,40
+22,Male,185,95,Very Active,Omnivore,Muscle Gain,3000,200,400,100
+38,Female,168,65,Lightly Active,Vegetarian,Weight Loss,1600,100,200,50
+27,Female,172,75,Moderately Active,Vegetarian,Maintenance,2000,120,250,60
+45,Male,180,100,Very Active,Omnivore,Weight Loss,2400,180,300,80
+32,Female,165,65,Lightly Active,Vegetarian,Maintenance,1800,80,200,50
+55,Male,175,90,Sedentary,Omnivore,Weight Loss,1800,100,200,50
+28,Female,170,70,Very Active,Vegetarian,Muscle Gain,2500,150,300,70
+48,Female,160,60,Sedentary,Vegetarian,Maintenance,1600,70,180,40
+62,Male,170,85,Lightly Active,Omnivore,Weight Loss,1800,100,200,50
+22,Female,168,55,Moderately Active,Vegetarian,Muscle Gain,2200,120,250,60
+38,Male,185,100,Very Active,Omnivore,Muscle Gain,3000,180,350,80
+21,Female,158,50,Moderately Active,Vegetarian,Weight Loss,1800,80,200,50
+58,Female,163,75,Sedentary,Vegetarian,Maintenance,1600,70,180,40
+25,Female,165,58,Lightly Active,Omnivore,Weight Loss,1800,80,250,60
+38,Male,180,85,Moderately Active,Omnivore,Muscle Gain,2800,150,350,80
+62,Female,160,65,Sedentary,Vegetarian,Weight Loss,1500,70,200,40
+28,Male,185,90,Very Active,Vegetarian,Muscle Gain,3200,180,400,80
+45,Female,170,70,Lightly Active,Vegetarian,Weight Loss,1700,75,220,50
+58,Male,175,80,Sedentary,Omnivore,Maintenance,2200,100,280,60
+32,Female,168,62,Moderately Active,Vegetarian,Muscle Gain,2400,120,300,70
+70,Male,170,75,Lightly Active,Vegetarian,Weight Loss,1600,70,210,40
+19,Female,163,55,Very Active,Omnivore,Muscle Gain,2600,140,320,70
+55,Male,183,95,Sedentary,Vegetarian,Maintenance,2000,90,250,50
+25,Male,180,80,Moderately Active,Omnivore,Weight Loss,2000,120,250,60
+32,Female,165,65,Lightly Active,Vegetarian,Weight Loss,1600,80,180,50
+55,Male,175,95,Sedentary,Vegetarian,Maintenance,2200,100,300,70
+68,Female,160,70,Lightly Active,Omnivore,Weight Loss,1400,70,150,40
+28,Male,185,90,Very Active,Omnivore,Muscle Gain,3000,180,400,80
+38,Female,170,75,Moderately Active,Vegetarian,Maintenance,1800,80,220,60
+58,Male,170,85,Sedentary,Omnivore,Maintenance,2000,80,250,60
+42,Female,168,60,Very Active,Vegetarian,Muscle Gain,2200,100,300,70
+21,Male,190,100,Moderately Active,Vegetarian,Muscle Gain,2800,140,350,90
+62,Female,155,55,Sedentary,Vegetarian,Weight Loss,1200,60,120,30
+25,Male,180,80,Moderately Active,Omnivore,Weight Loss,2000,120,250,60
+32,Female,165,65,Sedentary,Vegetarian,Weight Loss,1600,80,200,40
+58,Male,175,95,Lightly Active,Vegetarian,Maintenance,2200,100,300,65
+40,Female,170,72,Moderately Active,Omnivore,Muscle Gain,2500,150,350,80
+28,Male,185,90,Very Active,Vegetarian,Muscle Gain,3000,180,400,90
+62,Female,160,60,Sedentary,Omnivore,Maintenance,1800,80,220,50
+35,Male,190,100,Very Active,Vegetarian,Weight Loss,2400,140,300,70
+22,Female,168,55,Lightly Active,Vegetarian,Weight Loss,1500,70,180,40
+55,Male,178,85,Sedentary,Omnivore,Maintenance,2000,100,250,60
+48,Female,172,78,Moderately Active,Vegetarian,Weight Loss,1800,90,220,50
+25,Male,180,85,Moderately Active,Omnivore,Weight Loss,2200,120,250,60
+38,Female,165,68,Lightly Active,Vegetarian,Maintenance,1800,80,200,50
+55,Male,175,95,Sedentary,Vegetarian,Weight Loss,1800,80,200,50
+62,Female,160,70,Lightly Active,Vegetarian,Weight Loss,1500,70,175,40
+28,Male,190,90,Very Active,Omnivore,Muscle Gain,3000,160,350,80
+40,Female,170,75,Moderately Active,Vegetarian,Muscle Gain,2200,100,250,60
+58,Male,170,80,Sedentary,Vegetarian,Weight Loss,1600,70,180,40
+65,Female,155,65,Lightly Active,Omnivore,Maintenance,1500,60,175,40
+32,Male,185,100,Very Active,Omnivore,Muscle Gain,3200,180,380,90
+45,Female,168,72,Moderately Active,Vegetarian,Weight Loss,1700,70,190,45
+25,Male,180,80,Moderately Active,Omnivore,Weight Loss,2200,140,250,70
+32,Female,165,65,Sedentary,Vegetarian,Muscle Gain,2000,120,200,60
+48,Male,175,95,Very Active,Vegetarian,Maintenance,2800,160,350,85
+55,Female,160,70,Lightly Active,Omnivore,Weight Loss,1800,100,180,50
+28,Male,190,100,Moderately Active,Omnivore,Muscle Gain,3000,180,400,100
+62,Female,155,55,Sedentary,Vegetarian,Maintenance,1600,80,160,40
+35,Male,170,75,Very Active,Vegetarian,Weight Loss,2400,130,300,70
+22,Female,168,58,Lightly Active,Omnivore,Muscle Gain,2200,120,250,60
+58,Male,178,85,Moderately Active,Vegetarian,Weight Loss,2000,120,200,60
+40,Female,172,78,Sedentary,Omnivore,Maintenance,1800,100,180,50
+25,Male,180,85,Moderately Active,Omnivore,Weight Loss,2200,150,250,60
+32,Female,165,60,Lightly Active,Vegetarian,Maintenance,1800,80,220,50
+55,Male,175,90,Sedentary,Omnivore,Weight Loss,2000,120,200,55
+28,Female,170,70,Very Active,Vegetarian,Muscle Gain,2400,160,300,70
+62,Female,160,65,Lightly Active,Vegetarian,Weight Loss,1600,70,180,40
+38,Male,185,95,Moderately Active,Omnivore,Muscle Gain,2800,200,350,80
+21,Female,168,55,Very Active,Vegetarian,Maintenance,2000,100,250,60
+40,Male,190,110,Sedentary,Omnivore,Weight Loss,2000,140,200,50
+23,Female,172,68,Moderately Active,Vegetarian,Weight Loss,1800,100,200,50
+48,Male,178,80,Lightly Active,Vegetarian,Weight Loss,1800,100,200,50
+25,Male,180,80,Moderately Active,Omnivore,Weight Loss,2200,120,250,60
+32,Female,165,65,Lightly Active,Vegetarian,Muscle Gain,2000,100,200,70
+48,Male,175,95,Very Active,Omnivore,Weight Loss,2800,150,300,80
+55,Female,160,70,Sedentary,Vegetarian,Maintenance,1800,80,220,50
+28,Male,190,90,Moderately Active,Omnivore,Muscle Gain,2800,160,350,100
+62,Male,170,85,Lightly Active,Vegetarian,Weight Loss,1800,80,200,50
+35,Female,170,75,Very Active,Vegetarian,Muscle Gain,2400,120,280,80
+22,Female,160,55,Sedentary,Vegetarian,Weight Loss,1600,70,180,40
+40,Male,185,100,Moderately Active,Omnivore,Weight Loss,2500,130,280,70
+29,Female,175,85,Very Active,Vegetarian,Muscle Gain,2600,130,320,90
+25,Male,180,80,Moderately Active,Omnivore,Muscle Gain,3000,180,350,80
+38,Female,165,65,Lightly Active,Vegetarian,Weight Loss,1800,100,200,50
+55,Male,175,90,Sedentary,Omnivore,Weight Loss,2200,120,250,60
+62,Female,160,70,Moderately Active,Vegetarian,Maintenance,2000,100,220,60
+28,Male,190,100,Very Active,Omnivore,Muscle Gain,3500,200,400,100
+42,Female,170,75,Lightly Active,Vegetarian,Weight Loss,1700,90,180,45
+68,Male,170,85,Sedentary,Omnivore,Maintenance,2000,100,220,60
+22,Female,165,55,Very Active,Vegetarian,Muscle Gain,2500,150,300,70
+35,Male,185,95,Moderately Active,Omnivore,Weight Loss,2500,140,280,70
+58,Female,155,60,Sedentary,Vegetarian,Maintenance,1800,80,200,50
+25,Female,165,55,Lightly Active,Omnivore,Weight Loss,1800,100,200,60
+32,Male,180,80,Moderately Active,Omnivore,Muscle Gain,2800,180,350,80
+58,Female,160,70,Sedentary,Vegetarian,Weight Loss,1500,80,150,50
+38,Male,190,95,Very Active,Omnivore,Muscle Gain,3200,200,400,100
+22,Female,170,60,Lightly Active,Vegetarian,Maintenance,2000,100,250,70
+65,Male,175,85,Sedentary,Omnivore,Weight Loss,1700,90,180,60
+40,Female,168,65,Moderately Active,Vegetarian,Muscle Gain,2200,120,280,80
+28,Male,185,90,Very Active,Vegetarian,Muscle Gain,3000,150,375,90
+52,Female,158,62,Sedentary,Vegetarian,Weight Loss,1400,70,140,40
+35,Male,178,75,Moderately Active,Omnivore,Maintenance,2500,130,300,80
+25,Male,180,80,Moderately Active,Omnivore,Weight Loss,2200,120,250,60
+35,Female,165,65,Lightly Active,Vegetarian,Maintenance,1800,80,200,50
+55,Female,160,70,Sedentary,Vegetarian,Weight Loss,1500,70,180,40
+40,Male,190,95,Very Active,Omnivore,Muscle Gain,3000,180,350,80
+28,Female,170,55,Lightly Active,Vegetarian,Maintenance,1800,80,200,50
+62,Male,175,85,Moderately Active,Omnivore,Weight Loss,2000,100,220,50
+32,Female,168,60,Very Active,Vegetarian,Muscle Gain,2400,100,280,60
+21,Male,185,88,Sedentary,Vegetarian,Weight Loss,1800,80,200,50
+48,Male,178,90,Moderately Active,Omnivore,Maintenance,2400,120,280,70
+38,Female,172,75,Lightly Active,Vegetarian,Weight Loss,1600,70,180,40
+25,Male,180,85,Moderately Active,Omnivore,Weight Loss,2200,150,250,60
+38,Female,165,62,Lightly Active,Vegetarian,Maintenance,1800,80,220,50
+55,Female,160,70,Sedentary,Vegetarian,Weight Loss,1600,70,180,40
+28,Male,190,95,Very Active,Omnivore,Muscle Gain,3000,200,350,80
+62,Male,175,80,Lightly Active,Omnivore,Maintenance,2000,100,200,60
+32,Female,170,68,Moderately Active,Vegetarian,Muscle Gain,2200,120,280,60
+21,Female,168,55,Sedentary,Vegetarian,Weight Loss,1500,60,160,40
+40,Male,185,90,Very Active,Omnivore,Muscle Gain,3200,220,400,90
+27,Female,172,75,Moderately Active,Vegetarian,Maintenance,1900,80,210,50
+19,Male,183,78,Lightly Active,Omnivore,Weight Loss,2000,120,200,50
+25,Male,180,85,Moderately Active,Omnivore,Weight Loss,2200,150,250,60
+32,Female,165,60,Lightly Active,Vegetarian,Muscle Gain,2000,120,200,50
+55,Male,175,90,Sedentary,Omnivore,Weight Loss,1800,120,200,50
+68,Female,160,70,Sedentary,Vegetarian,Maintenance,1600,80,180,40

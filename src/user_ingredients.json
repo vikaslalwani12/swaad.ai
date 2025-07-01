@@ -1,0 +1,157 @@
+[
+  {
+    "ingredient": "rajma",
+    "quantity": "1 kg",
+    "used": false
+  },
+  {
+    "ingredient": "chana",
+    "quantity": "",
+    "used": false
+  },
+  {
+    "ingredient": "onion",
+    "quantity": "",
+    "used": false
+  },
+  {
+    "ingredient": "garlic",
+    "quantity": "",
+    "used": false
+  },
+  {
+    "ingredient": "ginger",
+    "quantity": "",
+    "used": false
+  },
+  {
+    "ingredient": "tomato",
+    "quantity": "",
+    "used": false
+  },
+  {
+    "ingredient": "ghee",
+    "quantity": "",
+    "used": false
+  },
+  {
+    "ingredient": "cumin",
+    "quantity": "",
+    "used": false
+  },
+  {
+    "ingredient": "rice",
+    "quantity": "",
+    "used": false
+  },
+  {
+    "ingredient": "chicken",
+    "quantity": "1 kg",
+    "used": false
+  },
+  {
+    "ingredient": "cabbage",
+    "quantity": "600g",
+    "used": false
+  },
+  {
+    "ingredient": "carrot",
+    "quantity": "500g",
+    "used": false
+  },
+  {
+    "ingredient": "raddish",
+    "quantity": "500g",
+    "used": false
+  },
+  {
+    "ingredient": "beans",
+    "quantity": "500g",
+    "used": false
+  },
+  {
+    "ingredient": "brinjal",
+    "quantity": "500g",
+    "used": false
+  },
+  {
+    "ingredient": "lemon",
+    "quantity": "500g",
+    "used": false
+  },
+  {
+    "ingredient": "capsicum",
+    "quantity": "500g",
+    "used": false
+  },
+  {
+    "ingredient": "cucumber",
+    "quantity": "500g",
+    "used": false
+  },
+  {
+    "ingredient": "palak",
+    "quantity": "500g",
+    "used": false
+  },
+  {
+    "ingredient": "methi",
+    "quantity": "500g",
+    "used": false
+  },
+  {
+    "ingredient": "cheese",
+    "quantity": "200g",
+    "used": false
+  },
+  {
+    "ingredient": "garam masala",
+    "quantity": "200g",
+    "used": false
+  },
+  {
+    "ingredient": "jeera powder",
+    "quantity": "200g",
+    "used": false
+  },
+  {
+    "ingredient": "bhindi",
+    "quantity": "200g",
+    "used": false
+  },
+  {
+    "ingredient": "drumsticks",
+    "quantity": "200g",
+    "used": false
+  },
+  {
+    "ingredient": "loki",
+    "quantity": "700g",
+    "used": false
+  },
+  {
+    "ingredient": "chicken",
+    "quantity": "1kg",
+    "used": false
+  },
+  {
+    "ingredient": "mutton",
+    "quantity": "1kg",
+    "used": false
+  },
+  {
+    "ingredient": "salt",
+    "quantity": "1kg",
+    "used": false
+  },
+  {
+    "ingredient": "flour",
+    "quantity": "1kg",
+    "used": false
+  },
+  {
+    "ingredient": "rice",
+    "quantity": "1kg",
+    "used": false
+  }
+]
