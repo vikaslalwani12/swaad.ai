@@ -7,7 +7,7 @@ import time
 # --- CONFIG ---
 INPUT_CSV = "Cleaned_Indian_Food_Dataset.csv"
 OUTPUT_CSV = "indian_recipes_enriched_with_per_person_nutrition.csv"
-GEMINI_API_KEY = "AIzaSyD_vnupJXDFULOLHXT5D7y0SoQ2vkLX1XI"
+GEMINI_API_KEY = "APIKEY"
 GEMINI_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=" + GEMINI_API_KEY
 
 # --- LOAD DATA ---
